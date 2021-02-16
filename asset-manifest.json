@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zozoflow/static/css/main.2add0cf7.chunk.css",
+    "main.js": "/zozoflow/static/js/main.844e42f4.chunk.js",
+    "main.js.map": "/zozoflow/static/js/main.844e42f4.chunk.js.map",
+    "runtime-main.js": "/zozoflow/static/js/runtime-main.bd813d21.js",
+    "runtime-main.js.map": "/zozoflow/static/js/runtime-main.bd813d21.js.map",
+    "static/js/2.21fb41ba.chunk.js": "/zozoflow/static/js/2.21fb41ba.chunk.js",
+    "static/js/2.21fb41ba.chunk.js.map": "/zozoflow/static/js/2.21fb41ba.chunk.js.map",
+    "index.html": "/zozoflow/index.html",
+    "precache-manifest.d686590f2ab67f9b9e87edf43db7ef49.js": "/zozoflow/precache-manifest.d686590f2ab67f9b9e87edf43db7ef49.js",
+    "service-worker.js": "/zozoflow/service-worker.js",
+    "static/css/main.2add0cf7.chunk.css.map": "/zozoflow/static/css/main.2add0cf7.chunk.css.map",
+    "static/js/2.21fb41ba.chunk.js.LICENSE.txt": "/zozoflow/static/js/2.21fb41ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd813d21.js",
+    "static/js/2.21fb41ba.chunk.js",
+    "static/css/main.2add0cf7.chunk.css",
+    "static/js/main.844e42f4.chunk.js"
+  ]
+}
